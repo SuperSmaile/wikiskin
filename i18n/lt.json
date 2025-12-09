@@ -1,25 +1,33 @@
 {
 	"@metadata": {
 		"authors": [
-			"Eitvys200",
-			"Nokeoo",
-			"Tomasdd",
-			"Vogone",
-			"Zygimantus"
+			"Nokeoo"
 		]
 	},
-	"timeless-anonymous": "Anonimas",
-	"timeless-loggedinas": "{{gender:$1|Prisijungęs|Prisijungusi}} kaip '''$1'''",
-	"timeless-notloggedin": "Neprisijungta",
-	"timeless-more": "Daugiau",
-	"timeless-sitetools": "Viki įrankiai",
-	"timeless-pageactions": "Puslapio įrankiai",
-	"timeless-userpagetools": "Naudotojo puslapio įrankiai",
-	"timeless-pagemisc": "Daugiau",
-	"timeless-namespaces": "Vardų sritys",
-	"timeless-pagetools": "Puslapio veiksmai",
-	"timeless-languages": "Kalbos",
-	"timeless-projects": "Kiti projektai",
-	"timeless-view-history": "Istorija",
-	"timeless-action-undelete": "Atkurti $1 {{PLURAL:$1|redagavimą|redagavimus|redagavimų}}"
+	"citizen-prefs-talkpage": "[[mw:Skin_talk:Citizen|Diskusija]]",
+	"citizen-languages-toggle": "Daugiau kalbų",
+	"citizen-actions-more-toggle": "Daugiau veiksmų",
+	"citizen-sitestats-articles-label": "straipsniai",
+	"citizen-sitestats-images-label": "failai",
+	"citizen-sitestats-users-label": "naudotojai",
+	"citizen-sitestats-edits-label": "keitimai",
+	"citizen-page-info-copyright": "Autorinės teisės",
+	"citizen-page-info-credits": "Kreditai",
+	"citizen-page-info-lastmod": "Paskutinis pakeitimas",
+	"citizen-footer-desc": "Redaguoti šį tekstą [[MediaWiki:Citizen-footer-desc]]",
+	"citizen-footer-tagline": "Redaguoti šį tekstą [[MediaWiki:Citizen-footer-tagline]]",
+	"citizen-action-addsection": "Pridėti temą",
+	"citizen-jumptotop": "Grįžti į viršų",
+	"citizen-search-fulltext": "Ieškoti puslapių, turinčių $1",
+	"citizen-search-mediasearch": "Ieškoti medijos, susijusios su $1",
+	"citizen-search-empty-desc": "Rašykite norėdami pradėti ieškoti",
+	"citizen-search-noresults-title": "Oi! Nėra $1 rezultatų",
+	"citizen-search-noresults-desc": "Galbūt išbandykite toliau pateiktas parinktis?",
+	"citizen-tagline-ns-talk": "{{SUBJECTPAGENAME}} diskusijų puslapis",
+	"citizen-tagline-ns-project": "Informacija apie {{SITENAME}}",
+	"citizen-tagline-ns-file": "Failas {{SITENAME}}",
+	"citizen-tagline-ns-mediawiki": "MediaWiki sąsajos puslapis",
+	"citizen-tagline-ns-template": "Šablono puslapis",
+	"citizen-tagline-ns-help": "Pagalbos puslapis",
+	"citizen-tagline-ns-category": "Kategorijos puslapis"
 }

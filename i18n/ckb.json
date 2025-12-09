@@ -1,27 +1,31 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aram",
-			"ئارام بکر"
+			"Alistair3149"
 		]
 	},
-	"timeless-anonymous": "ناوی نادیار",
-	"timeless-loggedinas": "بە '''$1''' چوویتە ژوورەوە",
-	"timeless-notloggedin": "لەژوورەوە نیت",
-	"timeless-userpage": "پەڕەی {{GENDER:$1|بەکارھێنەر}}",
-	"timeless-talkpage": "لێدوانی {{GENDER:$1|بەکارھێنەر}}",
-	"timeless-pagelog": "لۆگەکانی پەڕە",
-	"timeless-more": "زیاتر",
-	"timeless-sitetools": "ئامرازەکانی ویکی",
-	"timeless-pageactions": "ئامرازەکانی پەڕە",
-	"timeless-userpagetools": "ئامرازەکانی پەڕەی بەکارھێنەر",
-	"timeless-action-addsection": "بابەتی نوێ",
-	"timeless-view-view": "خوێندنەوە",
-	"timeless-pagemisc": "زیاتر",
-	"timeless-namespaces": "بۆشایی ناوەکان",
-	"timeless-pagetools": "بژاردەکانی پەڕە",
-	"timeless-languages": "زمانەکان",
-	"timeless-projects": "پرۆژەکانی تر",
-	"timeless-view-history": "مێژوو",
-	"timeless-action-undelete": "{{PLURAL:$1|یەک گۆڕانکاریی|$1 گۆڕانکاریی}} سڕاوە بەجێبھێنەرەوە"
+	"skinname-citizen": "هاوڵاتی",
+	"citizen-skin-desc": "ڕووکارێکی وەڵامدەرەوە پەرەی پێدراوە بۆ ویکی شارستانی ئەستێرە",
+	"citizen-drawer-toggle": "داخستن و کردنەوەی پێڕست",
+	"citizen-usermenu-toggle": "داخستن و کردنەوەی پێڕستی کەسی",
+	"citizen-search-toggle": "داخستن و کردنەوەی گەڕان",
+	"citizen-languages-toggle": "زمانی زیاتر",
+	"citizen-actions-more-toggle": "کرداری زیاتر",
+	"citizen-sitestats-articles-label": "وتارەکان",
+	"citizen-sitestats-images-label": "پەڕگەکان",
+	"citizen-sitestats-users-label": "بەکارهێنەران",
+	"citizen-sitestats-edits-label": "دەستکاریکردنەکان",
+	"citizen-footer-desc": "دەستکاری ئەم دەقە لەسەر [[MediaWiki:Citizen-footer-desc]]",
+	"citizen-footer-tagline": "دەستکاری ئەم دەقە لەسەر [[MediaWiki:Citizen-footer-tagline]]",
+	"citizen-action-addsection": "بابەت دابنێ",
+	"citizen-jumptotop": "گەڕانەوە بۆ سەرەوە",
+	"citizen-search-fulltext": "گەڕان لە ناوەڕۆکی لاپەڕەکان",
+	"citizen-search-empty-desc": "بنوسە بۆ گەڕان",
+	"citizen-tagline-ns-talk": "لاپەڕەی گفتوگۆی {{SUBJECTPAGENAME}}",
+	"citizen-tagline-ns-project": "زانیاری لەبارەی {{SITENAME}}",
+	"citizen-tagline-ns-file": "پەڕگە لەسەر {{SITENAME}}",
+	"citizen-tagline-ns-mediawiki": "پەڕەی ڕووکاری میدیاویکی",
+	"citizen-tagline-ns-template": "لاپەڕەی ڕووکار",
+	"citizen-tagline-ns-help": "لاپەڕەی یارمەتی",
+	"citizen-tagline-ns-category": "لاپەڕەی هاوپۆل"
 }

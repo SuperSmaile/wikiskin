@@ -4,12 +4,14 @@
 			"Yupik"
 		]
 	},
-	"timeless-anonymous": "Nõõmteʹmes õõʹnni",
-	"timeless-loggedinas": "Leäk ǩeeʹrjtõõttâm sizz nõõmin '''$1'''",
-	"timeless-notloggedin": "Jiõk leäkku ǩeeʹrjtõõttâm sizz",
-	"timeless-userpage": "{{GENDER:$1|Õõʹnni}}seidd",
-	"timeless-view-view": "Looǥǥ",
-	"timeless-languages": "Ǩiõl",
-	"timeless-projects": "Jeeʹres projeeʹkt",
-	"timeless-view-history": "Historia"
+	"citizen-prefs-talkpage": "[[mw:Skin_talk:Citizen|Saǥstõõllmõš]]",
+	"citizen-sitestats-articles-label": "artikkeeʹl",
+	"citizen-sitestats-images-label": "teâttõõzz",
+	"citizen-sitestats-users-label": "õõʹnni",
+	"citizen-sitestats-edits-label": "muttâz",
+	"citizen-action-addsection": "Lââʹzzet teeʹm",
+	"citizen-jumptotop": "Mååust seeid aʹlǧǧe",
+	"citizen-search-advancedsearch": "Tääʹrǩab ooccmõš",
+	"citizen-tagline-ns-project": "Lââʹssteâđ {{SITENAME}} pirr",
+	"citizen-feature-custom-font-size-name": "Teʹkstt"
 }

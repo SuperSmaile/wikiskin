@@ -1,30 +1,29 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vlad5250",
-			"Winston Sung",
-			"Aca"
+			"Aca",
+			"BadDog",
+			"Winston Sung"
 		]
 	},
-	"timeless-prefs-talkpage": "[[mw:Skin talk:Timeless|razgovor}]]",
-	"skinname-timeless": "Timeless",
-	"timeless-anonymous": "Neprijavljen",
-	"timeless-loggedinas": "Prijavljeni ste kao '''$1'''",
-	"timeless-notloggedin": "Niste prijavljeni",
-	"timeless-userpage": "{{GENDER:$1|Korisnička}} stranica",
-	"timeless-talkpage": "Razgovor sa {{GENDER:$1|korisnikom|korisnicom}}",
-	"timeless-pagelog": "Dnevnici stranice",
-	"timeless-more": "Više",
-	"timeless-sitetools": "Vikialatke",
-	"timeless-pageactions": "Alati za stranice",
-	"timeless-userpagetools": "Alati korisničke stranice",
-	"timeless-action-addsection": "Nova tema",
-	"timeless-view-view": "Pročitaj",
-	"timeless-pagemisc": "Više",
-	"timeless-namespaces": "Imenski prostori",
-	"timeless-pagetools": "Radnje na stranicama",
-	"timeless-languages": "Jezici",
-	"timeless-projects": "Ostali projekti",
-	"timeless-view-history": "Historija",
-	"timeless-action-undelete": "Vrati {{PLURAL:$1|izbrisanu izmjenu|$1 izbrisane izmjene|$1 izbrisanih izmjena}}"
+	"citizen-prefs-talkpage": "[[mw:Skin_talk:Citizen|Razgovor]]",
+	"citizen-languages-toggle": "Više jezika",
+	"citizen-actions-more-toggle": "Više mogućnosti",
+	"citizen-sitestats-articles-label": "članaka",
+	"citizen-sitestats-images-label": "datoteka",
+	"citizen-sitestats-users-label": "korisnika",
+	"citizen-sitestats-edits-label": "izmjena",
+	"citizen-page-info-copyright": "Autorska prava",
+	"citizen-page-info-credits": "Zasluge",
+	"citizen-page-info-lastmod": "Posljednja promjena",
+	"citizen-action-addsection": "Započni temu",
+	"citizen-jumptotop": "Nazad na vrh",
+	"citizen-search-fulltext": "Traži stranice koje sadrže $1",
+	"citizen-tagline-ns-talk": "Stranica za razgovor {{SUBJECTPAGENAME}}",
+	"citizen-tagline-ns-project": "Informacije o {{SITENAME}}",
+	"citizen-tagline-ns-file": "Datoteke na {{SITENAME}}",
+	"citizen-tagline-ns-mediawiki": "Stranica sučelja MediaWiki",
+	"citizen-tagline-ns-template": "Stranica šablona/predloška",
+	"citizen-tagline-ns-help": "Stranica za pomoć",
+	"citizen-tagline-ns-category": "Stranica kategorije"
 }

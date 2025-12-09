@@ -1,13 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
+			"Alistair3149",
 			"Chaduvari",
 			"Veeven"
 		]
 	},
-	"timeless-more": "మరిన్ని",
-	"timeless-userpagetools": "వాడుకరి పేజీ పరికరాలు",
-	"timeless-languages": "భాషలు",
-	"timeless-view-history": "చరిత్ర",
-	"timeless-action-undelete": "{{PLURAL:$1|ఒక మార్పు|$1 మార్పుల}} తొలగింపును రద్దుచెయ్యి"
+	"citizen-languages-toggle": "మరిన్ని భాషలు",
+	"citizen-actions-more-toggle": "మరిన్ని చర్యలు",
+	"citizen-sitestats-articles-label": "వ్యాసాలు",
+	"citizen-sitestats-users-label": "వాడుకరులు",
+	"citizen-sitestats-edits-label": "మార్పులు",
+	"citizen-page-info-lastmod": "చివరి మార్పు",
+	"citizen-action-addsection": "అంశాన్ని చేర్చు",
+	"citizen-jumptotop": "తిరిగి పైకి",
+	"citizen-tagline-ns-project": "{{SITENAME}} గురించిన సమాచారం",
+	"citizen-tagline-ns-template": "మూస పేజీ",
+	"citizen-tagline-ns-help": "సహాయం పేజీ",
+	"citizen-tagline-ns-category": "వర్గం పేజీ"
 }

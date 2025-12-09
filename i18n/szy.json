@@ -1,24 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Akamycoco",
-			"Benel",
-			"Bunukwiki",
-			"Tokoabibi"
+			"Benel"
 		]
 	},
-	"vector-skin-desc": "ayzaay a MonoBook, izaw baluhayay a nuhekalan atu yadah pisaungayay a sakapahay.",
-	"vector-language-button-label": "{{PLURAL:$1|$1 kamu}}",
-	"vector-action-addsection": "micunus sasakamuen",
-	"vector-action-delete": "misipu",
-	"vector-action-move": "milimad",
-	"vector-action-protect": "midiput",
-	"vector-action-undelete": "palawpes tu masipuay",
-	"vector-action-unprotect": "misumad tu midiputay",
-	"vector-view-create": "patizeng",
-	"vector-view-edit": "mikawaway-kalumyiti",
-	"vector-view-history": "ciwsace nazipa’an",
-	"vector-view-view": "miasip",
-	"vector-view-viewsource": "ciwsace yuensma-kodo",
-	"vector-more-actions": "yadah"
+	"timeless-more": "yadah",
+	"timeless-pagemisc": "yadah",
+	"timeless-namespaces": "pangangananay a salaedan",
+	"timeless-languages": "kamu",
+	"timeless-view-history": "nazipa’an",
+	"timeless-action-undelete": "Undelete {{PLURAL:$1|one edit|$1 edits}}"
 }

@@ -1,19 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"LeGuyanaisPure",
-			"Léon973"
+			"LeGuyanaisPure"
 		]
 	},
-	"vector-action-addsection": "Ajouté roun sijè",
-	"vector-action-delete": "Siprimen",
-	"vector-action-move": "Rounonmen",
-	"vector-action-protect": "Protéjé",
-	"vector-view-create": "Kréyé",
-	"vector-view-edit": "Chanjé",
-	"vector-view-history": "Afiché listorik",
-	"vector-view-view": "Li",
-	"vector-more-actions": "Plis",
-	"vector-toc-label": "Baydivan",
-	"vector-toc-beginning": "Koumansman"
+	"timeless-languages": "Lanng",
+	"timeless-view-history": "Listorik",
+	"timeless-action-undelete": "Rèstoré {{PLURAL:$1|roun modifikasyon|$1 modifikasyon}}"
 }

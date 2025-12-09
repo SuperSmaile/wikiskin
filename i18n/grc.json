@@ -1,21 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Crazymadlover",
-			"Gts-tg",
-			"Omnipaedista"
+			"PastelKos"
 		]
 	},
-	"vector-action-addsection": "Θέμα προστιθέναι",
-	"vector-action-delete": "Σβεννύναι",
-	"vector-action-move": "Κινεῖν",
-	"vector-action-protect": "Φυλάττειν",
-	"vector-action-undelete": "Ἀποκαθιστάναι",
-	"vector-action-unprotect": "Ἄλλαξον τὴν φύλαξιν",
-	"vector-view-create": "Ποιεῖν",
-	"vector-view-edit": "Μεταγράφειν",
-	"vector-view-history": "Ἱστορίαν ὁρᾶν",
-	"vector-view-view": "Ἀναγνῶναι",
-	"vector-view-viewsource": "Ὁρᾶν τὴν πηγήν",
-	"vector-more-actions": "Πλεῖον"
+	"timeless-more": "Πλείω",
+	"timeless-pagemisc": "Πλείω",
+	"timeless-languages": "Γλῶσσαι",
+	"timeless-view-history": "Ἱστορία",
+	"timeless-action-undelete": "Ἐπανορθοῦν {{PLURAL:$1|ἕνα μεταγραφὲν|$1 μεταγραφέντα}}"
 }

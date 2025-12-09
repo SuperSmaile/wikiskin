@@ -1,7 +1,7 @@
-/docs/
-/a11y/
-/i18n/
-/node_modules/
+/resources/libraries/
 /vendor/
-/coverage/
 
+# Language files written automatically by TranslateWiki
+/**/i18n/**/*.json
+!/**/i18n/**/en.json
+!/**/i18n/**/qqq.json
